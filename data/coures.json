@@ -1,0 +1,254 @@
+[
+    {
+        "category_id": "01",
+        "id": "a1",
+        "title": "Content Authoring Tool #1 - EdApp",
+        "details": "EdApp is a free all-in-one content authoring tool and corporate LMS that allows you to create interactive, microlearning courses in minutes. You don’t even have to start from scratch. With its course library of over 800 courses from different industries, you can edit any non-sponsored course to better fit your needs or you can even use it as is. With EdApp’s built-in authoring tool adding slides is easy with its slide template library. From media slides to text slides, you can customize pre-existing, gamified courses to your advantage.If you already have training courses in PowerPoint format, you can convert your slides into modern, microlearning content. By breaking up long-form learning content into smaller chunks, learners retain more information and complete their courses more quickly and easily. EdApp also supports Canva integration so that you can take your original content to its fullest potential. Courses hosted on EdApp adjust to any screen size as well, so they can be taken anytime and anywhere from any device.  Other features include AI translation of up to over 100 languages, xAPI and SCORM compliance, customizable global branding, multimedia and link hosting, and learning paths. These are features that you can use to further improve your organization’s learning experiences. If you need help better understanding EdApp and all its features, you can reach out to the support team and they would be willing to help you make better use of the app.",
+        "cost": "free",
+        "feature": "Pre-existing editable course library, slide templates, gamification, PowerPoint converter, Canva integration, multi-device functionality, AI translation, xAPI and SCORM compliance, customizable branding, multimedia and link hosting, learning paths",
+        "img": "https://i.postimg.cc/jSStZT39/1.png"
+    },
+    {
+        "category_id": "01",
+        "id": "a2",
+        "title": "Content Authoring Tool #2 - Camtasia",
+        "details": "Camtasia is perfect for those that use videos and screen capture recordings in their training programs. With Camtasia’s simple drag-and-drop editor, you can easily create videos with its template and theme library and package them with other presets to share them in a single file. It also comes with libraries for transitions, annotations, music, sound effects, visual effects, and pre-built assets. You can even import other media files or integrate your PowerPoint presentations to turn them into videos. While Camtasia isn’t like other traditional content authoring tools, you can still add interactivity and quizzes to your videos to measure learning and even make them SCORM compatible.",
+        "cost": "Cost: Free trial, starts at US$224.99 per user",
+        "feature": "Screen recorder, drag-and-drop editor, templates, themes, audio and visual effects, pre-built assets, imports, PowerPoint integration, quizzes, SCORM compatible ",
+        "img": "https://i.postimg.cc/jS3K11Gj/2.png"
+    },
+    {
+        "category_id": "01",
+        "id": "a3",
+        "title": "Content Authoring Tool #3 - dominKnow",
+        "details": "If you’re looking for an elearning authoring software, then dominKnow might be right for you. dominKnow comes with a course creator and a content management system, allowing for real-time updates between creator and learner. Its HTML5-based courses can be created through the use of templates, layouts, and pre-loaded digital assets and can be published to adapt to the size of any screen. Or, you can take existing free PowerPoint slides and convert them instead.While dominKnow has a course creation feature, there is no pre-existing learning content for you to edit or use. This means that you’d have to create your courses and lessons from scratch, and this can take up time and effort",
+        "cost": "US$997 per year for solo plan, US$1,497 per year for team plan",
+        "feature": "Course creator, course management, HTML5-based, templates, layouts, pre-loaded digital assets, PowerPoint converter",
+        "img": "https://i.postimg.cc/R0jmSHC5/3.png"
+    },
+    {
+        "category_id": "01",
+        "id": "a4",
+        "title": "Content Authoring Tool #4 - CenarioVR",
+        "details": "CenarioVR is perfect if you use VR training in your organization. You can create immersive VR courses by uploading any 360º videos or equirectangular photographs and by adding animations, 3D objects, audio, and quizzes. The courses are SCORM, xAPI, cmi5, and HTML5 compatible and can be published and shared on websites, other authoring apps, and elearning management systems. Courses can be completed on desktops, mobile and tablet devices, or VR headsets and can track course data and scores through an analytics dashboard. However, unless you do scenario-based VR training regularly, you won’t be able to maximize the content authoring tool’s features for your training programs. ",
+        "cost": " US$1,599 per year",
+        "feature": "Video and equirectangular uploads, animations, 3D objects, audio, quizzes, SCORM, xAPI, cmi5, HMTL5 compatible, desktop and mobile platforms, analytics",
+        "img": "https://i.postimg.cc/Ghq1BN3j/4.png"
+    },
+    {
+        "category_id": "01",
+        "id": "a5",
+        "title": "Content Authoring Tool #5 - Adapt",
+        "details": "You can create multi-device, responsive HTML5 elearning content with Adapt. It stands apart from most content authoring tools by being free and open-source and allowing for community-built plug-ins. Courses created with Adapt are also SCORM compliant, allowing you to host the courses built with the Adapt framework on SCORM compliant software. It’s also encouraged to reach out and communicate on their global elearning forum so that you are aware of the direction and development of the open-source tool. However, Adapt lacks a pre-existing course library, PowerPoint converter, and other common authoring tools and LMS integrations, making it harder to seamlessly insert this tool into an existing learning and training ecosystem. ",
+        "cost": "Free",
+        "feature": "Multi-device compatible, HTML5, open-source, community-built plug-ins, SCORM compliant, global forums",
+        "img": "https://i.postimg.cc/4NJgxZGd/5.png"
+    },
+    {
+        "category_id": "01",
+        "id": "a6",
+        "title": "Content Authoring Tool #6 - Composica",
+        "details": "With Composica, you can create courses, quizzes, and games using only your browser. You can either convert PowerPoint presentations into editable courses or start from scratch. Your content can be published to different LMS systems and can be in different formats like PDF or HTML5. Courses created with Composica go beyond standard question types and interactions and allow real-time feedback. Additionally, you can author courses in any language or export course text to translate them using the XLIFF standard. While Composica does make use of gamification, it doesn’t encourage other online learning strategies like microlearning to increase course completion rates and knowledge retention. ",
+        "cost": "US$99 per month",
+        "feature": "PowerPoint converter, shareable, PDF and HTML5 formats, interactivity, real-time feedback, multiple language translations",
+        "img": "https://i.postimg.cc/rsTLW2tf/7.png"
+    },
+    {
+        "category_id": "01",
+        "id": "a7",
+        "title": "Content Authoring Tool #7 - Raptivity",
+        "details": "Raptivity is a content authoring tool that you can use to design engaging and visually stimulating online learning experiences. The tool features a growing library of pre-made responsive interactions that include parallax displays, panning slides, and 360 interactions. Even with no design expertise, anyone can rapidly customize interactive quizzes, games, simulations, flashcards, and brainteasers through the tool’s user-friendly interface. Courses can also seamlessly work with most LMS software for SCORM and xAPI-compliant content. But, it’s important to note that Raptivity has a few feature limitations, and you might need to gather additional tools to design a well-rounded and effective training program.",
+        "cost": "Free 14-day trial, US$30 per month",
+        "feature": "Library of pre-made assets and interactions, rapid customization, user-friendly interface, SCORM and xAPI-compliant",
+        "img": "https://i.postimg.cc/d39cjN2w/8.png"
+    },
+    {
+        "category_id": "01",
+        "id": "a8",
+        "title": "Content Authoring Tool #8 - Adeptly",
+        "details": "Adeptly is a game builder that transforms scenarios into adaptive learning games. Simulate your narratives and build role-playing games to increase awareness of topics for employees during training or to market ideas and products to your customers. You can easily style and brand your games by mapping out decision trees, adding images and videos, and including conditional logic. After you publish and share your game, you can track player progress in real-time and measure behavior changes and learning outcomes. While it is a unique elearning authoring platform, it’s still very non-traditional and has niche applications. It will mostly be used for scenario and simulation-based training or marketing, and creating a game requires more time and resources than most would expect. ",
+        "cost": "Free for 1 editor, £14 per editor per month",
+        "feature": "Game builder, role-playing games, simulation and scenario-based, style and branding",
+        "img": "https://i.postimg.cc/Y2N770JZ/9.png"
+    },
+    {
+        "category_id": "01",
+        "id": "a9",
+        "title": "Content Authoring Tools #9 - Darcy Dario",
+        "details": "There are many content authoring tools out there that help accelerate training delivery, and bridge the gap between amateur-led and experienced-led training. In this list, you will find different tools to help you create interactive learning content in many forms like courses, PDFs, videos, and even games. Find the right content authoring tool for your organization today. ",
+        "cost": "free",
+        "feature": "no feature",
+        "img": "https://i.postimg.cc/wjMYDV7Y/10.png"
+    },
+    {
+        "category_id": "02",
+        "id": "b11",
+        "title": "Elearning Content Provider #1 - EdApp",
+        "details": "EdApp is an award-winning elearning content provider that gives you all the tools you’ll need to deliver effective elearning materials. It comes with a course library with over a hundred courses developed by thought leaders and industry experts. Courses in EdApp span a wide range of topics, such as safety, hospitality, leadership, the environment, mental well-being, and many more.  As part of EdApp’s mission to democratize learning, these courses can be edited, customized, and distributed at no cost. EdApp’s template-based authoring tool is so easy to use that even first-timers won’t encounter any learning curve as it’s as simple as choosing a template and populating your content with it.",
+        "cost": "Free",
+        "feature": "Course library,Template-based authoring tool,Practical Assessments",
+        "img": "https://i.postimg.cc/rmyRM3ft/Elearning-Content-Provider-1-Ed-App.png"
+    },
+    {
+        "category_id": "02",
+        "id": "b22",
+        "title": "Elearning Content Provider #2 - Gomo",
+        "details": "Gomo is an elearning content provider that’s simple and easy to use. Gomo’s cloud-based authoring tool allows you to do collaborative work while making sure that content can be easily updated and distributed. With responsive design as a standard, there’s no need to worry about your device’s screen as it will appear perfectly formatted every time. To easily access your learning materials, you can create and manage a centralized resource library so you can reuse assets without duplication issues.",
+        "cost": "Contact Gomo for pricing",
+        "feature": "Cloud-based no download needed,Collaborative authoring too,Resource library",
+        "img": "https://i.postimg.cc/VLJMSymq/Elearning-Content-Provider-2-Gomo.png"
+    },
+    {
+        "category_id": "02",
+        "id": "b33",
+        "title": "Elearning Content Provider #3 - Bit.ai ",
+        "details": "Bit.ai is another reliable elearning content provider that also helps you organize and manage content efficiently. It has an easy-to-use smart document editor that enables you to create, publish, and distribute your documents. Once you have your digital assets ready, you can keep them in your content library to reuse common assets. You can also import files from other platforms, such as Google Docs, Confluence, Dropbox, and many more. Another useful feature that you can use is document link tracking, which will give you real-time insights into how learners are interacting with learning resources.",
+        "cost": "free, paid plans (starts at 8 USD)",
+        "feature": "Smart document editor,Content library,Document link tracking",
+        "img": "https://i.postimg.cc/dQHrtQPQ/Elearning-Content-Provider-3-Bit.jpg"
+    },
+    {
+        "category_id": "02",
+        "id": "b44",
+        "title": "Elearning Provider #4 - Thinkific",
+        "details": "Thinkific helps turn knowledge into meaningful content. Creating online courses only takes minutes with its drag-and-drop course builder where no coding is required. To accommodate all kinds of learners, you can present multimedia lessons in different formats as well as live lessons when you want to engage with learners in real-time. Thinkific also has a dedicated community space set up so you can engage and learn with like-minded individuals to share and gain more knowledge in your industry.",
+        "cost": "Free, Paid plan  starts at 39 USD",
+        "feature": "Drag-and-drop course builder, Live lessons and multimedia lessons, Communities",
+        "img": "https://i.postimg.cc/wxGRYWL7/Elearning-Provider-4-Thinkific.png"
+    },
+    {
+        "category_id": "02",
+        "id": "b55",
+        "title": "Elearning Content Provider #5 - Envato Elements",
+        "details": "Envato Elements gives a ton of options for creating learning content that will engage learners. It’s an unlimited creative subscription where you can find slideshow videos, explainer videos, presentations, and podcasts to use for your training material. Various digital assets are also available to use, along with its library of offsite resources and even templates. Envato Elements gives you all the tools you need, whether you need to create a simple slide or a full course. They also give out free files to use every month for those who simply sign up for an account.",
+        "cost": "Starts at 11.50 USD",
+        "feature": "Course creator with varied assets,Unlimited downloads",
+        "img": "https://i.postimg.cc/brsG2bcy/Elearning-Content-Provider-5-Envato-Elements.png"
+    },
+    {
+        "category_id": "02",
+        "id": "b66",
+        "title": "Elearning Content Provider #6 - Bridge",
+        "details": "Creating courses for your team is easy with Bridge’s user-friendly authoring tool. If you’re looking to focus on videos as your primary format, then you’ll benefit from Bridges Advance Video Capture, which can help you capture and create video content. Just capture your video and edit it using Bridge’s native video editor. You can also track important metrics like the progress of your employees, courses with the highest engagement, learners with overdue courses, and more",
+        "cost": "Starts at 3 USD/month",
+        "feature": "Native authoring tool, Video editor ,Skills assessment",
+        "img": "https://i.postimg.cc/vZ9VzW1D/Elearning-Content-Provider-6-Bridge.jpg"
+    },
+    {
+        "category_id": "02",
+        "id": "b77",
+        "title": "Elearning Content Provider #7 - isEazy",
+        "details": "isEazy makes creating learning content a breeze with its rapid authoring capabilities. Just drag and drop the content to your courses or choose from interactive templates and layouts. This can include images, videos, audio, and even flashcards and quizzes. There’s also an option to duplicate and recycle projects, which makes course creation faster and more efficient. isEazy uses cloud technology, so you don’t have to worry about losing your work.",
+        "cost": "Free, paid plan starts at 76 USD/month",
+        "feature": "Multimedia, exercises, and graphics elements",
+        "img": "https://i.postimg.cc/HxScxzNv/Elearning-Content-Provider-7-is-Eazy.png"
+    },
+    {
+        "category_id": "02",
+        "id": "b88",
+        "title": "Elearning Content Provider #8 -  Eloomi",
+        "details": "Eloomi is another elearning content provider to consider due to its accessibility and ease of use. Custom courses can be created with this platform, or you can simply select one of their ready-made courses to edit and repurpose for your own needs. To guide learners to the learning content they need, Eloomi allows you to curate personalized learning paths. This software can also be accessed on all devices, whether it be a computer or smartphone, which is great for learning on the go.",
+        "cost": "Contact Eloomi for pricing",
+        "feature": "Built-in course authorin,Learning paths,Mobile accessibility",
+        "img": "https://i.postimg.cc/ZqSyDC3H/Elearning-Content-Provider-8-Eloomi.png"
+    },
+    {
+        "category_id": "02",
+        "id": "b99",
+        "title": "Elearning Content Provider #9 - Trainual",
+        "details": "Trainual is an elearning content provider that you can use to author content and create different learning materials. Unlike other platforms, there are more than just courses with Trainual. You can also make handbooks, checklists, processes, and other formats. With over 150 ready-made templates to choose from, there’s no need to worry about starting from scratch. You can also easily store content through its Collections feature and organize them based on your chosen parameters, such as department, location, and more. ",
+        "cost": "Starts at 49 USD/month",
+        "feature": "Content creation,Pre-built template,Collections",
+        "img": "https://i.postimg.cc/0N0JgP0s/Elearning-Content-Provider-9-Trainua.jpg"
+    },
+    {
+        "category_id": "02",
+        "id": "b100",
+        "title": "Elearning Content Provider #10 - GoToTraining",
+        "details": "Last but not least is GoToTraining, which is an elearning content provider with all the tools you need for your training. Here, you can share online course catalogs, videos, and presentations ahead of time to prepare learners for their virtual training sessions. Learners can access them from any device and join training through their smartphones or tablets, aside from computers. Sessions can then be recorded in the cloud for repeated viewing and documentation. GoToTraining also has a content library feature where you can store, organize, and reuse files when needed.",
+        "cost": "109 USD per organizer/month",
+        "feature": "Course catalogs,Mobile accessibility",
+        "img": "https://i.postimg.cc/pr4mQTRD/Elearning-Content-Provider-10-Go-To-Training.png"
+    },
+    {
+        "category_id": "03",
+        "id": "c111",
+        "title": "Skill Building Activity #1 - Chat Simulation",
+        "details": "Chat simulation focusing on developing communication skills is another fun skill building activity that you can consider for your team. To create an interactive learning experience for them, you can imitate real-world situations or conversations where they can practice their communication skills. For example, to train your customer service representatives about risk management, you can create lessons where you ask them possible questions about certain issues. Then, they can choose the appropriate response from a set of answer options. This way, they’ll be prepared for any kind of issue that might pop up. At the same time, they’re able to gain knowledge on how to respond during such situations. This is made so easy with EdApp! You can create your own chat simulation lesson in its course creation tool where you’ll find 80+ interactive training templates. Among them is the Chat Template, a multiple-choice template that uses speech bubbles to interact with the learner. It’s perfect for simulating conversations with customers, especially for industries like sales, retail, and so on.",
+        "cost": "",
+        "feature": "",
+        "img": "https://i.postimg.cc/kXq2PBgh/1.png"
+    },
+    {
+        "category_id": "03",
+        "id": "c222",
+        "title": "Skill Building Activity #2 – Case Studies Presentation",
+        "details": "Presenting case studies is a skill building activity that focuses on analyzing real data and information from real experiences involving significant clients and customers. Here, your learners take a look at the issues and problems encountered, challenge themselves to think out of the box and gather insights to come up with alternative solutions. It doesn’t only promote collaboration among employees, but it also further strengthens their analytical skills, strategic skills, decision-making skills, and creativity.",
+        "cost": "",
+        "feature": "",
+        "img": "https://i.postimg.cc/bwvddWbx/2.png"
+    },
+    {
+        "category_id": "03",
+        "id": "c333",
+        "title": "Skill Building Activity #3- Customer Role-Play",
+        "details": "Customer role play is an activity where scenarios are recreated to train employees on how to act and deal with various types of customers. It’s an engaging skill building activity where your employees can actively participate in their training. Through this, they’ll not only be able to improve their communication skills. They’ll also be able to practice certain behaviors, processes, and tasks, making them more precise when handling customers. ",
+        "cost": "",
+        "feature": "",
+        "img": "https://i.postimg.cc/P5FJDyzB/3.png"
+    },
+    {
+        "category_id": "03",
+        "id": "c444",
+        "title": "Skill Building Activity #4 – Hackathon",
+        "details": "A hackathon is a kind of event common in tech companies where employees group themselves together to work on a project. The programmers of the team will then code the project within 24 hours (with barely or no sleep at all!) and then present them to everyone. For instance, the highlight of the event can be about developing new software features, solving customers’ challenges, etc. It’s a fun activity where your employees can socialize and learn at the same time. And most importantly, your employees will be pushed to go beyond their limits, think creatively, and create teamwork–all thanks to the competitive nature of such events. ",
+        "cost": "",
+        "feature": "",
+        "img": "https://i.postimg.cc/br8wPBp2/4.png"
+    },
+    {
+        "category_id": "03",
+        "id": "c555",
+        "title": "Skill Building Activity #5 – Sell Me This Item",
+        "details": "Another fun skill building activity for your team is called “Sell Me This Item”, which is also known as “Sell Me This Pen”. Using any item in the room, you can choose any item that participating employees can sell. Or, to make things more exciting, they select the items themselves. Once that is set, they’ll be required to create a marketing strategy. You can even use this activity to create friendly competition among employees to motivate them to do their best.Skill Building Activities10 Skill Building Activities Shera Bariuad  October 24, 2022Tags:adult learning, employee training, gamification Address skill gaps and develop new skill sets among your team through fun and effective skill building activities. We’ve listed our top suggested ones for you to explore and try. Check them out below. ",
+        "cost": "",
+        "feature": "",
+        "img": "https://i.postimg.cc/cCm4LBLk/5.png"
+    },
+    {
+        "category_id": "03",
+        "id": "c666",
+        "title": "Skill Building Activity #6 – Illustrating Customer Persona",
+        "details": "A skill building activity ideal for industries involving a variety of customers is illustrating a customer persona. In this activity, your team will identify the types of customers for each challenge or pain point that your product or service solves. Then, they’ll create a pseudo-persona for them, highlighting their psychology, personalities, and behaviors based on factual data and information. This will help your team gain a deeper understanding of your clients or customers, which can then improve their service for them. ",
+        "cost": "",
+        "feature": "",
+        "img": "https://i.postimg.cc/sf92ms4P/6.png"
+    },
+    {
+        "category_id": "03",
+        "id": "c777",
+        "title": "Skill Building Activity #7 – Fact or Opinion",
+        "details": "If you want to increase your team’s knowledge about the business, an activity you can do is list down facts or opinions related to your company. When a statement is true, the challenge for the participating employees is to prove it. When it’s an opinion, their task will be to determine how they could be assumed by some people. This activity is designed to help your team stay grounded on factual information as well as to filter out irrelevant information.",
+        "cost": "",
+        "feature": "",
+        "img": "https://i.postimg.cc/sDjg0qTk/7.png"
+    },
+    {
+        "category_id": "03",
+        "id": "c888",
+        "title": "Skill Building Activity #8 – Trivia Quizzes",
+        "details": "If you prefer an activity that’s more fun and light-hearted, then solving trivia quizzes is the right skill building activity for your team. You can pick a variety of themes for your questions–they could be about your clients, your operations, the company, and so on. This way, you can keep their knowledge up-to-date, particularly with workplace trivia that tend to be overlooked. ",
+        "cost": "",
+        "feature": "",
+        "img": "https://i.postimg.cc/JhDn5Xpt/8.png"
+    },
+    {
+        "category_id": "03",
+        "id": "c999",
+        "title": "Skill Building Activity #9 – Virtual Reality (VR) Training",
+        "details": "Virtual Reality (VR) training is an immersive learning experience, which gives your employees hands-on training on tasks that can be risky or dangerous when performed right away in a real setting. It’s especially relevant if they still lack the necessary knowledge and expertise to perform such tasks. So, to help in improving their skills, this type of activity makes use of VR equipment to make the learning experience more realistic. It’s mostly common in fields like aviation, healthcare, and other similar industries. ",
+        "cost": "",
+        "feature": "",
+        "img": "https://i.postimg.cc/SscxwhFh/9.png"
+    }
+]

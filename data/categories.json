@@ -1,0 +1,21 @@
+[
+    {
+        "id" : "01",
+        "title": "10 Content Authoring Tools",
+        "img":"https://i.postimg.cc/V6VTj09R/1.png",
+        "discription":"There are many content authoring tools out there that help accelerate training delivery, and bridge the gap between amateur-led and experienced-led training. In this list, you will find different tools to help you create interactive learning content in many forms like courses, PDFs, videos, and even games. Find the right content authoring tool for your organization today.  "
+    },
+    {
+        "id" : "02",
+        "title": "10 Elearning Content Providers",
+        "img":"https://i.postimg.cc/g2zCbp03/banner.jpg",
+        "discription":"Elearning content providers are great companions for L&D departments as they lend a helping hand by offering ready-made learning materials. In this article, we’ll look into elearning content providers that you can rely on when looking for high-quality learning content to supplement your training."
+    },
+    {
+        "id" : "03",
+        "title": "10 Skill Building Activities",
+        "img":"https://i.postimg.cc/GhrNvRG6/banner.jpg",
+        "discription":"Address skill gaps and develop new skill sets among your team through fun and effective skill building activities. We’ve listed our top suggested ones for you to explore and try. Check them out below."
+    }
+
+]
